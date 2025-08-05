@@ -4,10 +4,10 @@ public class OE{
         Scanner sc = new Scanner(System.in);
         int a =sc.nextInt();
         if(a>0){
-            System.out.println("This number is positive");
+            System.out.println("This number is poss");
         }
         else{
-            System.out.println("This number is nagative");
+            System.out.println("This number is nogg");
         }
         }
     }
